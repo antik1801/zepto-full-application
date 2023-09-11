@@ -1,0 +1,63 @@
+[
+  {
+    "id": "1",
+    "fontname": "Roboto",
+    "preview": "Roboto",
+    "group": ["group1", "group2"]
+  },
+
+  {
+    "id": "2",
+    "fontname": "Arial",
+    "preview": "Arial",
+    "group": ["group4", "group3"]
+  },
+  {
+    "id": "3",
+    "fontname": "Times New Roman",
+    "preview": "Times New Roman",
+    "group": ["group2", "group4"]
+  },
+  {
+    "id": "4",
+    "fontname": "Verdana",
+    "preview": "Verdana",
+    "group": ["group2", "group4"]
+  },
+  {
+    "id": "5",
+    "fontname": "Helvetica",
+    "preview": "Helvetica",
+    "group": ["group3", "group5"]
+  },
+  {
+    "id": "6",
+    "fontname": "Georgia",
+    "preview": "Georgia",
+    "group": ["group3", "group5"]
+  },
+  {
+    "id": "7",
+    "fontname": "Courier New",
+    "preview": "Courier New",
+    "group": ["group3", "group5"]
+  },
+  {
+    "id": "8",
+    "fontname": "Tahoma",
+    "preview": "Tahoma",
+    "group": ["group3", "group5"]
+  },
+  {
+    "id": "9",
+    "fontname": "Open Sans",
+    "preview": "Open Sans",
+    "group": ["group3", "group5"]
+  },
+  {
+    "id": "10",
+    "fontname": "Calibri",
+    "preview": "Calibri",
+    "group": ["group3", "group5"]
+  }
+]

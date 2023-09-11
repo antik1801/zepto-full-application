@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  
+  /* ! Write here classnames and styles using single . */
+  
+  .dragAndDrop{
+   @apply mx-0; 
+  }
+
+}

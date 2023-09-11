@@ -1,0 +1,9 @@
+[
+    { "id": 1, "groupname": "group1", "fonts": ["roboto", "arial", "sans-serif"], "fontsid": [1, 2, 3] },
+    { "id": 2, "groupname": "group2", "fonts": ["times new roman", "georgia", "serif"], "fontsid": [4, 5, 6] },
+    { "id": 3, "groupname": "group3", "fonts": ["verdana", "helvetica", "arial"], "fontsid": [7, 8, 9] },
+    { "id": 4, "groupname": "group4", "fonts": ["courier new", "monospace"], "fontsid": [10, 11] },
+    { "id": 5, "groupname": "group5", "fonts": ["calibri", "arial", "sans-serif"], "fontsid": [12, 13, 14] },
+    { "id": 6, "groupname": "group6", "fonts": ["palatino", "serif"], "fontsid": [15, 16] }
+  ]
+  
